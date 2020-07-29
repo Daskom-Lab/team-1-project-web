@@ -1,2 +1,2 @@
 # team-1-project-web
-Web Dev by Yoimapren &amp; KADALvBunting
+Web Dev by Yoimapren &amp; CicakBunting
